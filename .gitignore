@@ -1,0 +1,8 @@
+.idea
+.docker
+.project
+mocks/
+main
+proxy-server
+proxy-server.exe
+src/.DS_Store
